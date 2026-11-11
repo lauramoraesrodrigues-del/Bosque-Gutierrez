@@ -1,1 +1,61 @@
+body{
+    background-color: lightskyblue;
+    color:black;
+    font-family: Arial, sans-serif;
+    margin:0;
+}
 
+header{
+    background-color: darkblue;
+    color:whitesmoke;
+    text-align: center;
+    padding: 30px;
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2{
+    color:dodgerblue;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+nav{
+    margin-top: 20px;
+}
+
+nav a{
+    color:black;
+    text-decoration: none;
+    background-color: midnightblue;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 5px;
+    display: inline-block;
+}
+
+nav a:hover{
+    background-color: aqua;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+}
+
+section{
+    background-color: aquamarine;
+    margin: 20px 0;
+}
+
+img{
+width: 100%;
+max-width: 600px;
+display: block;
+border-radius: 12px;
+}
